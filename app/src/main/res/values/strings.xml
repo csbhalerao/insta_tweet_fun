@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Insta_tweet_fun</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="text_twitter_sign">Twitter SignIn</string>
+    <string name="twitter_consumer_key">bxUQwuJitwvvXkjQwn2sqDGbw</string>
+    <string name="twitter_consumer_secret">TT3YpFy1BdXx59YnZujWl98GTGqAZtJYY6GI23hZHIXwJISh2L</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
